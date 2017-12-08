@@ -2,15 +2,15 @@
 ## Une Simple Extention WordPress
 
 ### Description :
-
+plugin partenariat simplon, permet d'afficher un texte donné dans n'importe quel post ou page.
 ...
 
 ### Installation :
-
+dans extensions, cliquez sur "ajouter" rajouter WPaulina.zip
 ...
 
 ### Utilisation :
-
+dans les pages souhaitées, inscrire [WPaulina] pour afficher le résultat de l'extension créée.
 ...
 
 ### Ressources :
